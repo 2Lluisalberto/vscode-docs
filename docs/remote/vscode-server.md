@@ -1,4 +1,4 @@
----
+P---
 Order: 6
 Area: remote
 TOCTitle: VS Code Server
@@ -70,7 +70,7 @@ You can explore the CLI's other commands by running `code -h`, and specifically 
 ### Extension commands
 
 As with the CLI, the VS Code Remote Tunnels extension has additional commands you can explore by opening the Command Palette (`F1`) in VS Code and typing **Remote Tunnels**. You may learn more in the [Remote Tunnels documentation](/docs/remote/tunnels.md).
-
+##73
 ## Telemetry
 
 If you want to disable telemetry, you can pass in `--disable-telemetry` when launching the VS Code Server: `code tunnel --disable-telemetry`. Alternatively, if you would like to specify an initial telemetry level, such as only collecting errors, you can pass in `--telemetry-level` followed by the level (for example, `error`).
